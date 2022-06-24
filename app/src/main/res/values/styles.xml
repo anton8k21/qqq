@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Widget.AppTheme.LikeCheckBox" parent="Widget.Material3.Button">
+        <item name="iconTint">@color/like_checkbox_tint</item>
+        <item name="backgroundColor">@color/like_checkbox_tint</item>
+        <item name="elevation">4dp</item>
+        <item name="srcCompat">@drawable/like</item>
+    </style>
+
+</resources>
